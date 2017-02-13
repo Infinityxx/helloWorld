@@ -11,5 +11,7 @@ public class Main {
         System.out.print("Please enter a Number: ");
         int someNumber = input.nextInt();
         System.out.println("The number is: " + someNumber);
+
+        System.out.println("another row");
     }
 }
